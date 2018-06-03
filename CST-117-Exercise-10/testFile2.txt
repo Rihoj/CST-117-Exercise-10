@@ -1,0 +1,4 @@
+﻿This is a multi line test file
+that has many options to help count how many words end in a t or e.
+The number should be 7 words.
+I wonder how well this will work for me. I need to test more words that end the way I expect it to.
